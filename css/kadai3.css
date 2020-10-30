@@ -1,0 +1,34 @@
+h1{
+    color: #124d12;
+    font-size:50px;
+    font-weight: bold;
+    font-family:"Inpact";
+    text-align: center;
+    background-color: #a9a9a9;
+}
+
+h2{
+     color: #1d801d;
+    font-size: 30px;
+    font-weight: bold;
+    font-family:"Inpact";
+    text-align: center;
+    background-color: #4e1d80;
+}
+
+h3{
+     color: #2fcc2f;
+    font-size: 20px;
+    font-weight: bold;
+    font-family:"Inpact";
+}
+p{
+    color: #f0fff0;
+}
+
+body{
+    background-image: url(../images/04.jpg);
+    background-repeat: no-repeat;
+    background-position: top center;
+    background-attachment: scroll;
+}
