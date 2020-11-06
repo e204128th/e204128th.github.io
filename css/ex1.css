@@ -1,38 +1,32 @@
 h1{
-    color: #f0f7ff;
+    color: #25464d;
     font-size:50px;
     font-weight: bold;
     font-family:"Inpact";
     text-align: center;
-    background-color: #36b34a;
+    background-color: #7fbfff;
 }
-
 h2{
      color: #f0f8ff;
     font-size: 30px;
     font-weight: bold;
     font-family:"Inpact";
     text-align: center;
-    background-color: #268035;
+    background-color: #4d8e99;
 }
-
-h3{
-     color: #2fcc2f;
-    font-size: 20px;
-    font-weight: bold;
-    font-family:"Inpact";
+table{
+    background-color: #80eaff;
 }
-p{
-    color: #f0fff0;
+ol{
+    background-image: url(../images/14.jpg)
 }
-
 body{
-    background-image: url(../images/04.jpg);
+    background-image: url(../images/08.jpg);
     background-repeat: no-repeat;
     background-position: top center;
     background-attachment: scroll;
 }
-.img_06{
+.img_08{
     display: block;
     margin: 0 auto;
 }
