@@ -1,0 +1,48 @@
+p{
+    color:#ffffff;
+}
+
+
+h1.title{
+    color: #25464d;
+    font-size:50px;
+    font-weight: bold;
+    font-family:"Inpact";
+    text-align: center;
+    background-color: #d3d3d3;
+}
+h1#rink{
+    color: #7fbfff;
+    font-size:50px;
+    font-weight: bold;
+    font-family:"Inpact";
+    text-align: center;
+    background-color: #25464d;
+}
+h2.sub{
+     color: #f0f8ff;
+    font-size: 30px;
+    font-weight: bold;
+    font-family:"Inpact";
+    text-align: center;
+    background-color: #696969;
+}
+h2#subtitle{
+     color: #696969;
+    font-size: 30px;
+    font-weight: bold;
+    font-family:"Inpact";
+    text-align: center;
+    background-color: #f5f5f5;
+}
+
+body{
+    background-image: url(../images/09.jpg);
+    background-repeat: repeat;
+    background-position: top center;
+    background-attachment: scroll;
+}
+.img_09{
+    display: block;
+    margin: 0 auto;
+}
