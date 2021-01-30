@@ -12,10 +12,11 @@ div.footer{
     width: 1000px;
     height: 40px;
     background-color:coral;
-    color: white;
-    font-size: 20px;
+    color: black;
+    font-size: 15px;
     text-align: right;
     font-family: "Impact";
+    font-weight: bold;
     margin-top: 20px;
 }
 
